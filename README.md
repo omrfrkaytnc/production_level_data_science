@@ -1,4 +1,4 @@
-# Production Level Data Science Training
+# Production Level Data Science
 
 ## Overview
 
