@@ -1,6 +1,6 @@
 # Production Level Data Science
 
-## Training Content in English
+## Training Content
 
 - Introduction to the Linux Command Line
 - Basic Bash Scripting
