@@ -1,5 +1,17 @@
 # Production Level Data Science
 
+## Training Content in English
+
+- Introduction to the Linux Command Line
+- Basic Bash Scripting
+- Scheduling Periodic Tasks with Crontab
+- Version Control System: Git
+- Basic PostgreSQL
+- Introduction to the World of Containers with Docker
+- MLOps and Mlflow as an MLOps Tool
+- CI/CD and Jenkins for Model Deployment
+- Basic Kubernetes and Model Deployment
+
 ## Overview
 
 Welcome to the **Production Level Data Science** training course. This course is designed to provide you with advanced skills and practical knowledge necessary for deploying and managing data science applications in production environments. Below are the key topics covered in this training:
